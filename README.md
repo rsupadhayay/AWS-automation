@@ -1,3 +1,5 @@
-# ansible
+# automation
+#AWS
+====================================================================================
 
-This repository contains all the use cases created to automate the Public Cloud Security Task. Current directory only uses Ansible as its automation engine.
+This repository contains the task automation code for AWS operation activities using Native tools like AWS CloudFormation, AWS Lambda, etc. & 3rd party tool like Terraform, Ansible,Chef.
